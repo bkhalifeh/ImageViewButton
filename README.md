@@ -1,2 +1,2 @@
 # ImageViewButton
-make ImageView to be clickable (javafx)
+simple java code that make ImageView to be clickable (javafx)
